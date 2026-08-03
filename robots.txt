@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://riki-riki-szk.github.io/sitemap.xml
